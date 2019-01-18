@@ -1,0 +1,2 @@
+Run it like this
+hadoop jar wordCount.jar wordCount.countWords input output

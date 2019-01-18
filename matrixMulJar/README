@@ -1,0 +1,1 @@
+hadoop jar matrixMulTest.jar com.lendap.hadoop.MatrixMultiply input2 output2
